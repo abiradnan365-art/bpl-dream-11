@@ -1,0 +1,192 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQRfZxGAZW6ESvVokYWIR_8coUpKaCYmReXZuKHGPodR5_PadCfxaJL5VTEy8uxsTupt1y6hk1r7XIqtdBb8Z_eRFHF5PATQ4ITY2DuIucdrx1_KBavVdvj7-1sZUEVNhmqryS3u_VZKKkW&s=19",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 900
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "data:image/webp;base64,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",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 140
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV14ep0nWWJMFFZtjp1fDKmmwxaRp_s8gnha8lvEsS_jePU_6nSvge9sMG8udK4GbnBpYW58c9kzXvedr29pq1GdXPQe3bqtHSKebnf30&s=10",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "price": 120
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQ5rxNxcmqEehlYaem_ETa2bnyondNfWps0dq75IsNDC7xil8udxeEOqg25_7eeku-WrULvsxqe9UCP3jY",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 130
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImg": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/294000/294030.6.jpg",
+    "origin": "England",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383228.1.png",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand bat",
+    "price": 110
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4LaH--oxoc17CPPFB72DhgfTX12I6dIDIYlz7f_-J9HvUXWIvWGMmaMMSkR_6zz-EcZbGAQQyPDFyCtqw5QoF9TB2UXXp2Pk1MDQLyk&s=10",
+    "origin": "New Zealand",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 800
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAKQ8MlotQ5vkR301L1d7DPFrmf10C8HAqA-PIRK48t3D-jj53uOK6A1imdSrGhOjPPE-gWlxRnNhdUpO9FJGD2dgmWSgchHOS1uYNQ&s=10",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 650
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImg": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Jos_Buttler_2017.jpg/250px-Jos_Buttler_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "origin": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 125
+  },
+  {
+    "playerName": "Arif Hasan",
+    "playerImg": "Not Given",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 650
+  },
+  {
+    "playerName": "Sakib Rahman",
+    "playerImg": "Not Given",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Left-hand bat",
+    "price": 720
+  },
+  {
+    "playerName": "Tanvir Ahmed",
+    "playerImg": "Not Given",
+    "origin": "Pakistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 480
+  },
+  {
+    "playerName": "Rahul Sharma",
+    "playerImg": "Not Given",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Daniel Smith",
+    "playerImg": "Not Given",
+    "origin": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 580
+  },
+  {
+    "playerName": "Michael Brown",
+    "playerImg": "Not Given",
+    "origin": "Australia",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "price": 800
+  },
+  {
+    "playerName": "Kamal Perera",
+    "playerImg": "Not Given",
+    "origin": "Sri Lanka",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "price": 420
+  },
+  {
+    "playerName": "Hamid Khan",
+    "playerImg": "Not Given",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand bat",
+    "price": 550
+  },
+  {
+    "playerName": "James Wilson",
+    "playerImg": "Not Given",
+    "origin": "New Zealand",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand bat",
+    "price": 600
+  },
+  {
+    "playerName": "Imran Ali",
+    "playerImg": "Not Given",
+    "origin": "Pakistan",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm medium-fast",
+    "battingStyle": "Right-hand bat",
+    "price": 750
+  },
+  {
+    "playerName": "Rafiul Islam",
+    "playerImg": "Not Given",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 350
+  },
+  {
+    "playerName": "David Miller",
+    "playerImg": "Not Given",
+    "origin": "South Africa",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand bat",
+    "price": 680
+  }
+
+]  
