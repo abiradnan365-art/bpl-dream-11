@@ -8,7 +8,7 @@ interface IAvailableProps {
     coin : number,
     setCoin: Dispatch<SetStateAction<number>>,
     selectedPlayers: Iplayer[],
-    setSelecctedPlayers: Dispatch<SetStateAction<Iplayer[]>>
+    setSelectedPlayers: Dispatch<SetStateAction<Iplayer[]>>
 }
 
 function AvailablePlayers({players, coin, setCoin, selectedPlayers, setSelectedPlayers} : IAvailableProps) {

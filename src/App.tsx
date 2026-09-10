@@ -5,6 +5,10 @@ import { Suspense, useState } from 'react';
 import Players from './components/Players/Players';
 
 import type { Iplayer } from './type/PlayerType';
+import Footer from './components/footer';
+
+
+
 
 const playerFetch = async(): Promise<Iplayer[]> => {
   const res = await fetch('/data.json');
@@ -27,7 +31,7 @@ const [playerPromise] = useState(()=> playerFetch())
     <Suspense fallback={<h2>Loading....</h2>}>
       <Players playerPromise={playerPromise} coin = {coin} setCoin = {setCoin}></Players>
     </Suspense>
-
+    <Footer></Footer>
     </>
   )
 }

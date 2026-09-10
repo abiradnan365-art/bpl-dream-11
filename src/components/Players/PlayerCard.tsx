@@ -15,24 +15,29 @@ function PlayerCard({ player, coin, setCoin, selectedPlayers, setSelectedPlayers
 
     console.log(coin, setCoin)
 
-    const [isSelected, setIsSelected] = useState(false);
+    const isSelected = selectedPlayers.some(
+    selectedPlayer => selectedPlayer.playerName === player.playerName
+);
     // console.log(isSelected, setIsSelected)
 
     const handleSelectPlayer = () => {
-        
-        const newCoinPrice  = coin - player.price
-        if (newCoinPrice >= 0){
-             setCoin(newCoinPrice)
-             setIsSelected (true);
-             toast.success(`${player.playerName} is purchased successfully`)
-            
-        }
-        else {
-            toast.error(`Coin is not enough to purchase`)
-        }
-         setSelectedPlayers([...selectedPlayers, player])
-       
+
+    const newCoinPrice = coin - player.price;
+
+    if (newCoinPrice >= 0) {
+
+        setCoin(newCoinPrice);
+
+        setSelectedPlayers([...selectedPlayers, player]);
+
+        toast.success(`${player.playerName} is purchased successfully`);
+
+    } else {
+
+        toast.error(`Coin is not enough to purchase`);
+
     }
+};
 
     return (
         <div className="group">
@@ -138,13 +143,13 @@ function PlayerCard({ player, coin, setCoin, selectedPlayers, setSelectedPlayers
                                 ${player.price}
                             </h2>
                         </div>
-
-                        <button 
-                        onClick={() => handleSelectPlayer() }
-                        className="btn btn-primary rounded-lg" disabled = {isSelected === true? true : false}>
-                            {isSelected === true ? "Selected Player" :"Choose Player"}
-                           
-                        </button> 
+                            <button
+                                onClick={handleSelectPlayer}
+                                className="btn btn-primary rounded-lg"
+                                disabled={isSelected}
+>
+                                {isSelected ? "Selected Player" : "Choose Player"}
+                            </button>
                     </div>
 
                 </div>
